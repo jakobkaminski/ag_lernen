@@ -1,40 +1,42 @@
-## Welcome to AG Lernen and Kognition
+# Welcome to AG Lernen and Kognition
 
-You find useful information in the documents including an onboarding document for your first steps here.
+You find useful information in this documents concerning your first steps here.
 
+It makes sense to do them in following order, everything is easier once you have Owncloud access.
 
-You can use the [editor on GitHub](https://github.com/jakobkaminski/ag_lernen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Some of the following Charité-related things need the Personalnr. (usually found in your contract)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## e-mail Account
 
-### Markdown
+1. Get a Charité account (follow instructions depending on your status as Mitarbeiter/in if you have a contract or Externe if you do not have a contract with Charité)
+https://intranet.charite.de/it/it_serviceueberblick/e_mail_dienst/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Key for rooms
 
-```markdown
-Syntax highlighted code block
+2. Get a key
+https://cfm-portal.charite.de/benefit/key (tick Schlüssel, CCM and insert 2711 Campusklinik for Gebäude-Nr. and 02 02X for Room)
+OR Owncloud -> AG_Lernen_und_Kognition -> Schlüssel.doc (already filled out)
 
-# Header 1
-## Header 2
-### Header 3
+what you need.
 
-- Bulleted
-- List
+- Florian’s signature/stamp
 
-1. Numbered
-2. List
+#Computing and communication
 
-**Bold** and _Italic_ and `Code` text
+3. Get access to Owncloud (refer to Jakob) for Cloud computing
 
-[Link](url) and ![Image](src)
-```
+4. Get access to group e-mail for recruiting (refer to Teresa)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Get admin rights (template in Owncloud -> AG_Lernen_und_Kognition -> Formulare -> Antrag-lokale-Adminrechte AND Adminrechte_Begründung)
+Fill in your own name in Adminrechte_Begründung
+Needs:
+- Telefon in room 02 022 is 030/450-517379
+- Rechnername/Inventar-Nr. – sticker on computer
+- Florian’s signature/stamp
+It says to only send it by fax but it is okay to send it to helpdesk@charite.de
 
-### Jekyll Themes
+## data storage on server
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jakobkaminski/ag_lernen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6. Get access to group data storage S:\ (template in Owncloud -> AG_Lernen_und_Kognition -> Formulare -> Beantragung-Ablage is filled in already or adapt to your needs in Beantragung-Rechte)
+Needs:
+-signature/stamp of responsible person
