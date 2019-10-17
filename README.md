@@ -23,7 +23,7 @@ what you need.
 
 # Computing and communication
 
-3. Get access to Owncloud https://owncloud-ext.charite.de (refer to Jakob) for cloud computing :cloud:
+3. Get access to Owncloud https://owncloud-ext.charite.de (refer to Jakob) for cloud computing :cloud: and read [How to Owncloud](docs/How_To_Owncloud.md)
 
 4. Get access to group e-mail for recruiting (refer to Teresa)
 
