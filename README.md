@@ -1,4 +1,4 @@
-# Welcome to AG Lernen and Kognition
+# Welcome to AG Lernen and Kognition 
 
 You find useful information in this documents concerning your first steps here.
 
@@ -41,4 +41,4 @@ It says to only send it by fax but it is okay to send it to helpdesk@charite.de
 Needs:
 -signature/stamp of responsible person
 
-### You are all set! :blush:
+### You are all set! :blush: :heart:
