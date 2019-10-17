@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to AG Lernen and Kognition
+
+You find useful information in the documents including an onboarding document for your first steps here.
+
 
 You can use the [editor on GitHub](https://github.com/jakobkaminski/ag_lernen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
