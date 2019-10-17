@@ -30,7 +30,7 @@ what you need.
 5. Get admin rights (template in Owncloud -> AG_Lernen_und_Kognition -> Formulare -> Antrag-lokale-Adminrechte AND Adminrechte_Begründung)
 Fill in your own name in Adminrechte_Begründung
 Needs:
-- Telefon in room 02 022 is 030/450-517379
+- Telefon in room 02 022 is :phone: 030/450-517379
 - Rechnername/Inventar-Nr. – sticker on computer
 - Florian’s signature/stamp
 It says to only send it by fax but it is okay to send it to helpdesk@charite.de
