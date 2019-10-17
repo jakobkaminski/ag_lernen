@@ -21,9 +21,9 @@ what you need.
 
 - Florian’s signature/stamp
 
-#Computing and communication
+# Computing and communication
 
-3. Get access to Owncloud (refer to Jakob) for Cloud computing
+3. Get access to Owncloud (refer to Jakob) for cloud computing
 
 4. Get access to group e-mail for recruiting (refer to Teresa)
 
@@ -40,3 +40,5 @@ It says to only send it by fax but it is okay to send it to helpdesk@charite.de
 6. Get access to group data storage S:\ (template in Owncloud -> AG_Lernen_und_Kognition -> Formulare -> Beantragung-Ablage is filled in already or adapt to your needs in Beantragung-Rechte)
 Needs:
 -signature/stamp of responsible person
+
+### You are all set! 
