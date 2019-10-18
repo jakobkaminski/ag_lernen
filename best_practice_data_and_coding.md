@@ -1,6 +1,6 @@
-## Best Practices
+# Best Practices
 
-# Scripts
+## Scripts
 
 Your scripts should go into version control, e.g., a Git repository. :page_with_curl:
 Your scripts should be driven by command line parameters and/or configuration such that no paths etc. are hard-coded.
@@ -9,7 +9,7 @@ Rather, get these values from the command line or a configuration file and only 
 Thus, ideally your scripts are not project-specific.
 
 
-# Configuration
+## Configuration
 
 Your configuration usually is project-specific.
 Your configuration should also go into version contro, e.g., a Git repository.
@@ -17,7 +17,7 @@ Your configuration should also go into version contro, e.g., a Git repository.
 In addition, you might need project-specific "wrapper" scripts that just call your project-independent script with the correct paths for your project.
 These scripts rather fall into the "configuration" category and should then live together with your configuration.
 
-# Data
+## Data
 
 Your data should go into a location separate from your scripts and configuration.
 Ideally, the raw input data is separated from the work and output files such that you can make these files and directories read-only and don't accidentally damage these files.
