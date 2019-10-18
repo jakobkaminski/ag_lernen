@@ -24,6 +24,7 @@ Ideally, the raw input data is separated from the work and output files such tha
 You really should keep temporary files in a temporary directory, set the environment variable TMPDIR appropriately and automatically clean them up.
 
 ## Best Practices in Practice
+
 But how can we put this into practice?
 Below, we give some examples of how to do this.
 Note that for simplicity's sake we put all scripts and configuration into one directory/repository contrary to the best practices above.
@@ -45,6 +46,7 @@ the scripts are called from the home location, maybe through project-specific wr
 
 Example: Link config/scripts into work location (Option 1)
 Creating the work directory and copy the input files into work/input.
+```
 $ mkdir -p project/work/input
 $ cp /fast/projects/cubit/tutorial/input/* project/work/input
 Creating the home space.
@@ -56,9 +58,11 @@ $ cat <<EOF >.gitignore
 .*.sw?
 EOF
 $ cat <<EOF >README.md
+```
 # Example Project
 
 This is an example project with config/scripts linked into work location.
+```
 EOF
 $ git init
 $ git add .gitignore README.md
@@ -67,13 +71,16 @@ We then create the a simple script for executing the mapping step and a configur
 $ mkdir scripts
 $ cat <<"EOF" >scripts/run-mapping.sh
 #!/bin/bash
-
+```
 # Unofficial Bash script mode, see:
-# http://redsymbol.net/articles/unofficial-bash-strict-mode/
-set -euo pipefail
 
+# http://redsymbol.net/articles/unofficial-bash-strict-mode/
+```
+set -euo pipefail
+```
 # Get directory to bash file, see
 # https://stackoverflow.com/a/4774063/84349
+```
 SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
 
 # Helper function to print help to stderr.
@@ -161,10 +168,11 @@ $ ln -s ../work ../output .
 And we can execute everything in the home directory.
 $ ./scripts/run-mapping -c config/project-config.sh
 [...]
-
+```
 Example: Wrapper Scripts in Home (Option 2.2)
 Again, we can reuse the project up to the statement "This concludes the basic project setup" in the example for option 1.
 Then, we do the following:
+```
 $ cd ../work
 $ cat <<"EOF" >do-run-mapping.sh
 #!/bin/bash
@@ -173,10 +181,12 @@ $ cat <<"EOF" >do-run-mapping.sh
     -c ../home/config/project-config.sh
 EOF
 $ chmod +x do-run-mapping.sh
+```
 Note that the the do-run.sh script could also go into the project-specific Git repository and be linked into the work directory.
 Finally, we can run our pipeline:
+```
 $ cd ../work
 $ ./do-run-mapping.sh
 [...]
-
+```
 This was taken from the WIKI from BIH Cluster...
