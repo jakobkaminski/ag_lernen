@@ -77,8 +77,8 @@ http://redsymbol.net/articles/unofficial-bash-strict-mode/
 ```
 set -euo pipefail
 ```
-# Get directory to bash file, see
-# https://stackoverflow.com/a/4774063/84349
+## Get directory to bash file, see
+ https://stackoverflow.com/a/4774063/84349
 ```
 SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
 
