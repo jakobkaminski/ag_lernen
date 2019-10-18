@@ -72,9 +72,8 @@ $ mkdir scripts
 $ cat <<"EOF" >scripts/run-mapping.sh
 #!/bin/bash
 ```
-# Unofficial Bash script mode, see:
-
-# http://redsymbol.net/articles/unofficial-bash-strict-mode/
+## Unofficial Bash script mode, see:
+http://redsymbol.net/articles/unofficial-bash-strict-mode/
 ```
 set -euo pipefail
 ```
