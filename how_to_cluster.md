@@ -2,15 +2,25 @@
 
 write e-mail to jakob.kaminski@charite.de
 
-# Prerequisits
+# Prerequisits for access to cluster
 
 download and install Putty
 
-download and install Pageant
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-# how to make your windows PC ready for use with unix
 
-Make unix style commands with windows:
+# Once you get the e-mail refer to the wiki
+
+https://github.com/bihealth/bih-cluster/wiki
+
+
+# How to make your windows PC ready for use with unix 
+
+## useful for file transfer via command line (scp)
+
+Make unix style commands on a windows PC
+
+download cygwin:
 
 https://www.cygwin.com/
 
