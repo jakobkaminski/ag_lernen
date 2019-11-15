@@ -1,6 +1,12 @@
 ## How to set up access to cluster 
 
-write e-mail to jakob.kaminski@charite.de
+write e-mail to jakob.kaminski@charite.de with your 
+
+charite user name 
+
+and 
+
+github username
 
 ## Prerequisits for access to cluster
 
@@ -9,7 +15,7 @@ download and install Putty
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 
-## Once you get the e-mail refer to the wiki
+## Once you get the e-mail from bih cluster refer to the wiki
 
 https://github.com/bihealth/bih-cluster/wiki
 
