@@ -62,12 +62,15 @@ this again is the bash script:
 
 it calls the rather silly R script [example.R](example.R)
 
-:Thumb:
+:+1:
 
-If you like editing the scripts on the cluster fast and like a pro :Geek: you can call vim, by typing vim from the command line. Here you find some useful shortcuts. It seems a bit awkward first. But it is really fast :Fire:
+If you like editing the scripts on the cluster fast and like a pro :eyeglasses: you can call vim, by typing vim from the command line. Here you find some useful shortcuts. It seems a bit awkward first. But it is really fast :running:
 
 https://www.itl.cat/wallview/xTohTR_vim-cheat-sheet/
 
+And you have time to add emojis to your markdown scripts:
+
+https://gist.github.com/rxaviers/7360908
 
 For further reading on clusters, cores and nodes, here is a brief intro:
 
