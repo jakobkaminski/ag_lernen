@@ -38,7 +38,12 @@ https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-
 
 ## Submitting jobs on the cluster
 
-Please first read the wiki: https://github.com/bihealth/bih-cluster/wiki and get to know the cluster. When accessing the cluster. Don't forget to check whether you are on a compute node. Don't compute on a login node. Making job submission easy you should use the command qsub and a bash script that calls your actual script. You can find an example here:  
+Please first read the wiki: https://github.com/bihealth/bih-cluster/wiki and get to know the cluster. 
 
+When accessing the cluster. Don't forget to check whether you are on a compute node. Don't compute on a login node.
 
+Making job submission easy you should use the command qsub and a bash script that calls your actual script.
+
+You can find an example here:  
+[example.sh]
 
