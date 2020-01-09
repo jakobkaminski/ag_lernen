@@ -44,6 +44,8 @@ When accessing the cluster. Don't forget to check whether you are on a compute n
 
 Making job submission easy you should use the command qsub and a bash script that calls your actual script.
 
+First make sure that you create a folder called logs in the correct directory, so that log files can be written to it. This is implemented in the bash scripts.
+
 You can find a MATLAB example here:  
 
 this ist the bash script:
@@ -60,4 +62,13 @@ this again is the bash script:
 
 it calls the rather silly R script [example.R](example.R)
 
-:thumbsup
+:thumb
+
+If you like editing the scripts on the cluster fast and like a pro :geek you can call vim, by typing vim from the command line. Here you find some useful shortcuts. It seems a bit awkward first. But it is really fast :fire
+
+https://www.itl.cat/wallview/xTohTR_vim-cheat-sheet/
+
+
+For further reading on clusters, cores and nodes, here is a brief intro:
+
+https://oncomputingwell.princeton.edu/2019/03/what-is-a-cluster-cores-nodes-slurm-cpus-oh-my/
