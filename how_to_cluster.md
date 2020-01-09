@@ -34,3 +34,9 @@ https://www.cygwin.com/
 How to cygwin:
 
 https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-cygwin/
+
+
+## Link to example scripts for Matlab and R 
+
+
+
