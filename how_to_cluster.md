@@ -62,9 +62,9 @@ this again is the bash script:
 
 it calls the rather silly R script [example.R](example.R)
 
-:thumb
+:Thumb
 
-If you like editing the scripts on the cluster fast and like a pro :geek you can call vim, by typing vim from the command line. Here you find some useful shortcuts. It seems a bit awkward first. But it is really fast :fire
+If you like editing the scripts on the cluster fast and like a pro :Geek you can call vim, by typing vim from the command line. Here you find some useful shortcuts. It seems a bit awkward first. But it is really fast :Fire
 
 https://www.itl.cat/wallview/xTohTR_vim-cheat-sheet/
 
