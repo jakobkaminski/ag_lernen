@@ -52,7 +52,7 @@ this ist the bash script:
 
 [hellow.sh](hellow.sh)
 
-it calls the matlab scirpt [example.m](example.m)
+it calls a silly matlab scirpt [example.m](example.m)
 
 And here a working example for R:
 
@@ -60,7 +60,7 @@ this again is the bash script:
 
 [hellowR.sh](hellowR.sh)
 
-it calls the rather silly R script [example.R](example.R)
+it calls the similarly meaningful R script [example.R](example.R)
 
 :+1:
 
