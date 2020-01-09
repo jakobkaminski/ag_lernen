@@ -36,7 +36,9 @@ How to cygwin:
 https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-cygwin/
 
 
-## Link to example scripts for Matlab and R 
+## Submitting jobs on the cluster
+
+Don't forget to check whether you are on a compute node. Don't compute on a login node. Making job submission easy you should use qsub and a bash script that calls your actual script. You can find an example here:  
 
 
 
