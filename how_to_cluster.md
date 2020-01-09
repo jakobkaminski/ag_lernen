@@ -44,6 +44,18 @@ When accessing the cluster. Don't forget to check whether you are on a compute n
 
 Making job submission easy you should use the command qsub and a bash script that calls your actual script.
 
-You can find an example here:  
-[example.sh](example.sh)
+You can find a MATLAB example here:  
 
+this ist the bash script:
+
+[hellow.sh](hellow.sh)
+
+it calls the matlab scirpt [example.m](example.m)
+
+And here a working example for R:
+
+this again is the bash script:
+
+[hellowR.sh](hellowR.sh)
+
+it calls the R script [example.R](example.R)
