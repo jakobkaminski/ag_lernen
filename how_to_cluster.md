@@ -58,4 +58,6 @@ this again is the bash script:
 
 [hellowR.sh](hellowR.sh)
 
-it calls the R script [example.R](example.R)
+it calls the rather silly R script [example.R](example.R)
+
+:thumbsup
