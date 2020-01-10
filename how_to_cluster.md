@@ -36,7 +36,7 @@ How to cygwin:
 https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-cygwin/
 
 
-## Submitting jobs on the cluster
+## Submitting jobs to the cluster
 
 Please first read the wiki: https://github.com/bihealth/bih-cluster/wiki and get to know the cluster. 
 
