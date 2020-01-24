@@ -12,6 +12,8 @@ https://owncloud.org/download/
 
 Install the client on C:\ should be possible without admin rights. If not, ask IT to install it, by writing a ticket.
 
+https://intranet.charite.de/it/helpdesk/online_auftrag/
+
 Set owncloud folder to T:\ if to small ask IT to increase quota.
 
 
