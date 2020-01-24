@@ -10,7 +10,9 @@ send an email to jakob.kaminski@charite.de (who takes care of owncloud for AG Le
 
 https://owncloud.org/download/
 
-Install the client on C:\ should be possible without admin rights. If not, ask IT to install it.
+Install the client on C:\ should be possible without admin rights. If not, ask IT to install it, by writing a ticket.
 
 Set owncloud folder to T:\ if to small ask IT to increase quota.
+
+
 
