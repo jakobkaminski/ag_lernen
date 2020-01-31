@@ -41,4 +41,7 @@ It says to only send it by fax but it is okay to send it to helpdesk@charite.de
 Needs:
 -signature/stamp of responsible person
 
-### You are all set! :blush: :heart:
+### You are all set! :blush: :heart: 
+
+If you ask yourself how to add emojis:
+https://gist.github.com/rxaviers/7360908 :point_left: 
