@@ -12,9 +12,14 @@ This is for accessing the virtual desktop environment provided by Charité but w
 
 ### Establish basic VPN
 
+if you do not have a Personalnr.
 ```
-VPN-Antrag_Extern if you do not have a Personalnr.
-VPN-Antrag_Mitarb_Stud if you have one
+VPN-Antrag_Extern
+```
+
+if you have one:
+``
+VPN-Antrag_Mitarb_Stud
 ```
 
 both can be filled out by yourself/no stamp/signatures needed
@@ -47,4 +52,3 @@ Now you need the stamp by Prof. Heinz, therefore send it to his secretary (nadin
 * [Charité VPN Glossar](https://intranet.charite.de/it/it_serviceueberblick/vpn/vpn_glossar/) 
 
 
-This is 
