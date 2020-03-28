@@ -58,7 +58,7 @@ You need Microsoft Remote Desktop for Mac. You can download it here
 
 * [Microsoft Remote Desktop for Mac](https://apps.apple.com/de/app/microsoft-remote-desktop-10/id1295203466?mt=12)
 
-You then need to establish a VPN  to the intranet of Charité (e.g. via Tunnelblick) and than you can start the Microsoft Remote Desktop Client and enter the domain Name CHARTIE\yourusername and the PC name c15... :zap:
+You then need to establish a VPN  to the intranet of Charité (e.g. via Tunnelblick) and than you can start the Microsoft Remote Desktop Client and enter the domain Name CHARTE\yourusername and the PC name c15... :zap:
 
 
 
