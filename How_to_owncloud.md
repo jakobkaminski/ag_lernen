@@ -17,4 +17,4 @@ https://intranet.charite.de/it/helpdesk/online_auftrag/
 Set owncloud folder to T:\ if to small ask IT to increase quota.
 
 
-During installation of woncloud desktop client you need to enter the domain: https://owncloud-ext.charite.de/owncloud
+During installation of owncloud desktop client you need to enter the domain: https://owncloud-ext.charite.de/owncloud
