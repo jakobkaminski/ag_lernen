@@ -1,6 +1,6 @@
 Problem:
 
-Git hat den Zugang nun mit access tokens :key: vershen…Hierdurch soll es einfacher sein den Zugang zu repositories zu managen und die Sicherheit erhöhen.
+Git hat den Zugang nun mit access tokens :key: vershen… Hierdurch soll es einfacher sein den Zugang und die Rechte bezüglich der Repositories zu managen und die Sicherheit erhöhen.
 
 Googlen hat mich auf folgende Ressource (Anleitung von github) gebracht:
 
