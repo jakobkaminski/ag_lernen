@@ -2,21 +2,23 @@ Problem:
 
 Git hat den Zugang nun mit access tokens :key: vershen… Hierdurch soll es einfacher sein den Zugang und die Rechte bezüglich der Repositories zu managen und die Sicherheit erhöhen.
 
-Googlen hat mich auf folgende Ressource (Anleitung von github) gebracht:
+Googlen hat mich auf folgende Ressource (Anleitung von github) gebracht um ein access token zu erstellen:
 
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 Probleme sind folgende: 
--	Der Computer muss diesen toke nun kennen, da der nicht wirklich zu merken ist (man kann sich das auch einfach als text file speichern und immer wieder kopieren, ist aber nervig)
--	Alternativ kann man ihn cashen hierzu gibt es wiederum ein tool https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+-	Der Computer muss diesen access token nun kennen, da der nicht wirklich zu merken ist (man kann sich das auch einfach als text file speichern und immer wieder kopieren, ist aber nervig)
+-	Alternativ kann man ihn cashen, hierzu gibt es wiederum ein tool (einen credential manager) https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
 -	Diesen credential manager kann man installieren, so wie hier beschrieben: https://github.com/cli/cli#installation
 
 
 Hat bei mir (jakobkaminski) funktioniert mit MacBook Pro (13-inch, 2018) High Sierra 10.13.6 mit dem Terminal. 
 
 
-Das RStudio Terminal macht allerdings noch einen Fehler⁉️: error: cannot run rpostback-askpass: No such file or directory
+Das RStudio Terminal produziert allerdings noch einen Fehler⁉️, wenn ich etwas pushen will: error: cannot run rpostback-askpass: No such file or directory
 
 Lösung hierfür ist hier beschrieben:  https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
 
-Hat dann auch funktioniert. Was man hier braucht ist ein nützliches package: https://github.com/r-lib/usethis
+Was man hier noch braucht ist ein nützliches package mit dem Namen usethis: https://github.com/r-lib/usethis
+
+Hat dann auch funktioniert. 
